@@ -1,9 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/mde3/animalia)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/mabiorduom?style=social)](https://twitter.com/intent/follow?screen_name=mabiorduom)
-  ![GitHub stars](https://img.shields.io/github/stars/mde3/animalia?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/mde3/animalia?style=social)
+ 
   
   <h2 align="center">Animalia - Wildlife and Animal Conservation.</h2>
 
@@ -32,5 +29,3 @@
 - Pixabay (Images): https://unsplash.com/
 - ChatGPT (Information): https://chat.openai.com/
 
-### Contact
-- If you have any feedback, reach out to me at mabiorduom5@gmail.com
